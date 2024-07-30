@@ -56,7 +56,7 @@ public class Sy : Person
 
     public string CurrentLocation()
     {
-        return "Burke, VA, USA";
+        return "CN";
     }
 
     public List<string> NextLocations()
