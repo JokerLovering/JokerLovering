@@ -68,6 +68,11 @@ I am JokerLovering⚡ a software testing engineer who is skilled at discovering 
 
 <br/>  
 
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://jokerlovering.github.io/blog) visitor, Thank You!🎉🎉
+
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokerLovering&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=JokerLovering&count_private=true&show_icons=true" height=145/></span>](https://jokerlovering.github.io/blog)
+
+
 
 ### Backend  
 <div align="center">  
