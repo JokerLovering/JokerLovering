@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://raw.gitcode.com/utf8/img/raw/master/daily/tw2.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://raw.gitcode.com/utf8/img/raw/master/daily/ktfgx.gif" align="center" style="width: 100%" />
+</div>
   
 
 ### _Hi there 👋, I'm jokerlovering._
